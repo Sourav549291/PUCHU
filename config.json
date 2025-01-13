@@ -44,18 +44,17 @@
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "K　Ú　Ç H　Ú　ツ,
-  "prefix": "/",
+  "nickNameBot": "⸺꯭̥̊͟💐꯭ ͟⃝⃪ 🇰ᴜᴄʜᴜ៹࣪𖹭𓂃",
+  "prefix": ".",
+  "prefix": ".",
   "ArYanapi": "https://aryan-rest-api.onrender.com",
   "api": "",
   "api2": "",
   "api3": "",
-  "authorName": "ArYan 🤡",
+  "authorName": "⸺꯭̥̊͟💐꯭ ͟⃝⃪ 🇰ᴜᴄʜᴜ៹࣪𖹭𓂃",
   "facebook2": "https://www.facebook.com/raj.vai.404",
   "facebook": "https://www.facebook.com/ArYan.com.404",
-  "email": "adriyanaryan@yahoo.com",
-  "replit": "https://replit.com/@ARYAN-BOT",
-  "github": "https://github.com/ARYAN-BOT-404",
+  "email": "Souravkhalua51@gmail.com",
   "insta": "no",
   "age": "18+",
   "TG": "",
@@ -66,7 +65,7 @@
     "autoRefreshThreadInfoFirstTime": true,
     "notes": "(1) type selects 'json' or 'sqlite' or 'mongodb'. If you choose mongodb, enter uri connect mongodb in the uriMongodb section, instructions to get uri connect mongodb at: https://youtu.be/z1f9urHW5xY. I recommend using 'mongodb' or 'sqlite', json is not recommended because it is not stable. (2) when you set autoSyncWhenStart to true, the bot will automatically synchronize the data in the database when starting the bot, this will make the bot start slower. (3) when youf set autoRefreshThreadInfoFirstTime to true, the bot will automatically refresh the thread information when get first message from the thread since starting the bot"
   },
-  "timeZone": "Asia/Dhaka",
+  "timeZone": "Asia/kolkata",
   "credentials": {
     "gmailAccount": {
       "email": "",
